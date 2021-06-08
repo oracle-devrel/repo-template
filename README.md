@@ -1,5 +1,8 @@
 # TITLE
 
+[![License: UPL](https://img.shields.io/badge/license-UPL-green)](https://img.shields.io/badge/license-UPL-green) [![Quality gate](https://sonarcloud.io/api/project_badges/quality_gate?project=oracle-devrel_test)](https://sonarcloud.io/dashboard?id=oracle-devrel_test)
+
+
 ## Introduction
 MISSING
 
@@ -21,6 +24,6 @@ This project is open source.  Please submit your contributions by forking this r
 ## License
 Copyright (c) 2021 Oracle and/or its affiliates.
 
-Licensed under the Universal Permissive License 1.0.
+Licensed under the Universal Permissive License (UPL), Version 1.0.
 
 See [LICENSE](LICENSE) for more details.
