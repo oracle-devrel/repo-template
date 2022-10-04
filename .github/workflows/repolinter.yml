@@ -25,7 +25,7 @@ jobs:
           echo $(cat repolinter_results.json)
           exit 0
       - name: Analyze the Repolinter results
-        uses: oracle-devrel/action-repolinter-audit@v0.1-alpha1
+        uses: oracle-devrel/action-repolinter-audit@v0.1-alpha2
         id: analysis
         with:
           json_results_file: '/github/workspace/repolinter_results.json'
