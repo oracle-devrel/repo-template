@@ -20,10 +20,19 @@ MISSING
 * Nothing at this time
 
 ## Contributing
-This project is open source.  Please submit your contributions by forking this repository and submitting a pull request!  Oracle appreciates any contributions that are made by the open source community.
+<!-- If your project has specific contribution requirements, update the
+    CONTRIBUTING.md file to ensure those requirements are clearly explained. -->
+
+This project welcomes contributions from the community. Before submitting a pull
+request, please [review our contribution guide](./CONTRIBUTING.md).
+
+## Security
+
+Please consult the [security guide](./SECURITY.md) for our responsible security
+vulnerability disclosure process.
 
 ## License
-Copyright (c) 2022 Oracle and/or its affiliates.
+Copyright (c) 2024 Oracle and/or its affiliates.
 
 Licensed under the Universal Permissive License (UPL), Version 1.0.
 
